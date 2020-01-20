@@ -1,9 +1,11 @@
 Esta es la nueva historia de Marcos Orozco 
 
-Marcos Orozco tiene 37 años nació en San Pedro Sacatepequez San Marcos
-
-pero vivo en Escuintla desde los 2 años
+Marcos Orozco tiene 25 años nació en San Pedro Sacatepequez San Marcos 
 
 y mas texto 
 
-una nueva linea de texto al archivo para verificar cambios
+mas texto agregado en este archivo, para las pruebas 
+
+
+con git 
+
